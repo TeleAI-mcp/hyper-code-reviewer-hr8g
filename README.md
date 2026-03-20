@@ -1,2 +1,3 @@
-# hyper-code-reviewer-hr8g
-Automated code review tool for modern development workflows
+# Hyper Code Reviewer Hr8G
+
+A automated code review tool for modern development workflows.
